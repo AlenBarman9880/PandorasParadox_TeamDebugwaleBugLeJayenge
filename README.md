@@ -41,7 +41,7 @@ The project helps students quickly check whether their symptoms may require **re
 
 ## 🏃 How to Run Locally  
 1. Clone the repository:  
-   git clone https://github.com/your-username/symptom-to-help-navigator.git
+   git clone https://github.com/AlenBarman9880/symptom-to-help-navigator.git
 2. Open the project folder:
    cd symptom-to-help-navigator
 3. Open index.html in your browser.
